@@ -1,0 +1,58 @@
+h1 {
+  color: red;
+  font-family: "Comic Sans MS";
+}
+
+h3 {
+  color: white;
+  font-family: "Comic Sans MS";
+}
+
+li { /*This was done ahead of time for #6*/
+  color: #fcba03;
+}
+
+th {
+  color: #03e8fc;
+  font-family: "Arial Black";
+}
+
+td {
+  color: #ffae3d;
+  font-family: "Verdana"
+}
+
+h4 {
+  font-family: "Impact";
+  color: Purple;
+}
+
+h2 {
+  font-family: "Trebuchet MS";
+  color: Blue
+}
+
+p {
+  font-family: "Arial";
+  color: #e491ff;
+}
+
+.photo {
+  border: 30px;
+}
+
+#pageTitle {
+  color: White;
+}
+
+.professional {
+  background-color: Grey
+}
+
+.hobbies {
+  background-color: Tomato
+}
+
+.links {
+  background-color: Green
+}
